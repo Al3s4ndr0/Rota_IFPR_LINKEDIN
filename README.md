@@ -23,15 +23,6 @@ Aplicativo mobile criado para facilitar a **localização de setores e salas** d
 
 ---
 
-## 📷 Demonstração
-
-![tela_inicial_app](image.png)
-![quero_ser_aluno](image-1.png)
-![sou_aluno](image-2.png)
-![projeto_rodando_expo](image-3.png)
-
----
-
 ## ⚙️ Como rodar o projeto
 
 ### Pré-requisitos
