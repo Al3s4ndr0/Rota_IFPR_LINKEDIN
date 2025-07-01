@@ -30,16 +30,6 @@ Aplicativo mobile criado para facilitar a **localização de setores e salas** d
 - Expo CLI (`npm install -g expo-cli`)
 - Editor de código (VSCode recomendado)
 
-## 📷 Demonstração
-
-![tela_inicial_app](![image](https://github.com/user-attachments/assets/13b44b62-0787-4985-8879-315fb4d35209)
-)
-![quero_ser_aluno](![image](https://github.com/user-attachments/assets/12fae5a6-f281-4ac8-81d0-8d6be4bf6c92)
-)
-![sou_aluno](![image](https://github.com/user-attachments/assets/9d55ad97-998f-4285-9d26-8d8bfbf1e773)
-)
-
-
 ### Instalação
 
 ```bash
